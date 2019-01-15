@@ -1,0 +1,6 @@
+<view class='container'>
+  <view class='watch'>
+    <view>{{watch}}</view>
+    <button class='btn-watch' type="primary" size="mini" bindtap="watchHandle">watch</button>
+  </view>
+</view>

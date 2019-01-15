@@ -1,0 +1,10 @@
+.watch{
+  display: flex;
+  flex-direction:row;
+  align-items:center;
+  justify-content: center;
+}
+.btn-watch{
+  margin: 0;
+  margin-left: 100rpx;
+}
